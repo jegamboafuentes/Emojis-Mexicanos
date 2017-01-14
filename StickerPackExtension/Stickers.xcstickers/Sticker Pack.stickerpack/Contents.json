@@ -1,9 +1,152 @@
 {
+  "stickers" : [
+    {
+      "filename" : "A_Huevo.sticker"
+    },
+    {
+      "filename" : "Que_Pedo.sticker"
+    },
+    {
+      "filename" : "Sorpresa_M.sticker"
+    },
+    {
+      "filename" : "No_Manches_M.sticker"
+    },
+    {
+      "filename" : "Felicidades.sticker"
+    },
+    {
+      "filename" : "Que_Hueva.sticker"
+    },
+    {
+      "filename" : "Chale.sticker"
+    },
+    {
+      "filename" : "jajaja.sticker"
+    },
+    {
+      "filename" : "Chido.sticker"
+    },
+    {
+      "filename" : "No_Hay_Varo.sticker"
+    },
+    {
+      "filename" : "Adios.sticker"
+    },
+    {
+      "filename" : "Unas_Chelas.sticker"
+    },
+    {
+      "filename" : "Feliz_H2.sticker"
+    },
+    {
+      "filename" : "Guey.sticker"
+    },
+    {
+      "filename" : "Feliz_M.sticker"
+    },
+    {
+      "filename" : "No_se.sticker"
+    },
+    {
+      "filename" : "Hola_M.sticker"
+    },
+    {
+      "filename" : "Es_Neta.sticker"
+    },
+    {
+      "filename" : "Lorando_H1.sticker"
+    },
+    {
+      "filename" : "Feliz_Cumple.sticker"
+    },
+    {
+      "filename" : "Triste_M.sticker"
+    },
+    {
+      "filename" : "Sorpresa_H2.sticker"
+    },
+    {
+      "filename" : "Felicidades_m.sticker"
+    },
+    {
+      "filename" : "No_Manches.sticker"
+    },
+    {
+      "filename" : "Sepa_La_Bola.sticker"
+    },
+    {
+      "filename" : "Llorando_M.sticker"
+    },
+    {
+      "filename" : "Callate_M.sticker"
+    },
+    {
+      "filename" : "Callate.sticker"
+    },
+    {
+      "filename" : "Pinche_Fresa.sticker"
+    },
+    {
+      "filename" : "Enojo.sticker"
+    },
+    {
+      "filename" : "Hola.sticker"
+    },
+    {
+      "filename" : "Sorpresa.sticker"
+    },
+    {
+      "filename" : "Es_Neta_M.sticker"
+    },
+    {
+      "filename" : "Que_Buena_Onda.sticker"
+    },
+    {
+      "filename" : "Vamos_A_Chupar.sticker"
+    },
+    {
+      "filename" : "Me_Vale.sticker"
+    },
+    {
+      "filename" : "No_Mames.sticker"
+    },
+    {
+      "filename" : "Me_Lleva_La.sticker"
+    },
+    {
+      "filename" : "Enojada_M.sticker"
+    },
+    {
+      "filename" : "Cabron.sticker"
+    },
+    {
+      "filename" : "Enojado.sticker"
+    },
+    {
+      "filename" : "Que_Chingon.sticker"
+    },
+    {
+      "filename" : "Triste_H2.sticker"
+    },
+    {
+      "filename" : "Llorando.sticker"
+    },
+    {
+      "filename" : "Triste.sticker"
+    },
+    {
+      "filename" : "Feliz.sticker"
+    },
+    {
+      "filename" : "Que_Descanses.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"
   },
   "properties" : {
-    "grid-size" : "regular"
+    "grid-size" : "small"
   }
 }
