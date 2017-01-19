@@ -317,6 +317,7 @@
 				7C6C952E1E29D64600C27B14 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		7C6C95301E29D64600C27B14 /* Build configuration list for PBXNativeTarget "Emojis Mexicanos" */ = {
 			isa = XCConfigurationList;
@@ -325,6 +326,7 @@
 				7C6C95321E29D64600C27B14 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
